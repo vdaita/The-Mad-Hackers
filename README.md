@@ -1,6 +1,8 @@
 # LEAN
 Learn While Earning, Upscaling All Workers
 
+This project was originally made for Hack Against Covid, however, we have added more features later on.
+
 IMPORTANT
 ## Other content:
 
